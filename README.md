@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Rehan018/LeetCode/tree/master/0402-remove-k-digits) |
+| [0420-strong-password-checker](https://github.com/Rehan018/LeetCode/tree/master/0420-strong-password-checker) |
 ## Stack
 |  |
 | ------- |
@@ -15,8 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Rehan018/LeetCode/tree/master/0402-remove-k-digits) |
+| [0420-strong-password-checker](https://github.com/Rehan018/LeetCode/tree/master/0420-strong-password-checker) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Rehan018/LeetCode/tree/master/0402-remove-k-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0420-strong-password-checker](https://github.com/Rehan018/LeetCode/tree/master/0420-strong-password-checker) |
 <!---LeetCode Topics End-->
