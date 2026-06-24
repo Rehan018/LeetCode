@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Rehan018/LeetCode/tree/master/0402-remove-k-digits) |
 | [0420-strong-password-checker](https://github.com/Rehan018/LeetCode/tree/master/0420-strong-password-checker) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Rehan018/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Stack
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Rehan018/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rehan018/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rehan018/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Rehan018/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Rehan018/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rehan018/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rehan018/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Rehan018/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Rehan018/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rehan018/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rehan018/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Rehan018/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Rehan018/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Rehan018/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Iterator
 |  |
 | ------- |
@@ -76,4 +81,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rehan018/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rehan018/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Rehan018/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Rehan018/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
