@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Rehan018/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/Rehan018/LeetCode/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
@@ -37,14 +38,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rehan018/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Rehan018/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rehan018/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Rehan018/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rehan018/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Rehan018/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Math
 |  |
 | ------- |
@@ -53,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rehan018/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Rehan018/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Rehan018/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
