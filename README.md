@@ -64,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0920-number-of-music-playlists](https://github.com/Rehan018/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rehan018/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0920-number-of-music-playlists](https://github.com/Rehan018/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rehan018/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Design
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rehan018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0920-number-of-music-playlists](https://github.com/Rehan018/LeetCode/tree/master/0920-number-of-music-playlists) |
 <!---LeetCode Topics End-->
