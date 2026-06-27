@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0741-cherry-pickup](https://github.com/Rehan018/LeetCode/tree/master/0741-cherry-pickup) |
 | [0920-number-of-music-playlists](https://github.com/Rehan018/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Rehan018/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rehan018/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Rehan018/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/Rehan018/LeetCode/tree/master/0695-max-area-of-island) |
+| [0741-cherry-pickup](https://github.com/Rehan018/LeetCode/tree/master/0741-cherry-pickup) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rehan018/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rehan018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Rehan018/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/Rehan018/LeetCode/tree/master/0695-max-area-of-island) |
+| [0741-cherry-pickup](https://github.com/Rehan018/LeetCode/tree/master/0741-cherry-pickup) |
 ## Hash Table
 |  |
 | ------- |
