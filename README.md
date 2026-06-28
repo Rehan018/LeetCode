@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Rehan018/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/Rehan018/LeetCode/tree/master/0402-remove-k-digits) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Rehan018/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Rehan018/LeetCode/tree/master/0402-remove-k-digits) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Rehan018/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rehan018/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Rehan018/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -236,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rehan018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Rehan018/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
