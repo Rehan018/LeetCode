@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/Rehan018/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1020-number-of-enclaves](https://github.com/Rehan018/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rehan018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2488-count-subarrays-with-median-k](https://github.com/Rehan018/LeetCode/tree/master/2488-count-subarrays-with-median-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rehan018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Rehan018/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rehan018/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0959-regions-cut-by-slashes](https://github.com/Rehan018/LeetCode/tree/master/0959-regions-cut-by-slashes) |
+| [2488-count-subarrays-with-median-k](https://github.com/Rehan018/LeetCode/tree/master/2488-count-subarrays-with-median-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rehan018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/Rehan018/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [2488-count-subarrays-with-median-k](https://github.com/Rehan018/LeetCode/tree/master/2488-count-subarrays-with-median-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rehan018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Combinatorics
 |  |
