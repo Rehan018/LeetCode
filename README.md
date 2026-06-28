@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/Rehan018/LeetCode/tree/master/0420-strong-password-checker) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Rehan018/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0861-score-after-flipping-matrix](https://github.com/Rehan018/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rehan018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/Rehan018/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 | [0999-available-captures-for-rook](https://github.com/Rehan018/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1020-number-of-enclaves](https://github.com/Rehan018/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rehan018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rehan018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-surface-area-of-3d-shapes](https://github.com/Rehan018/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rehan018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
