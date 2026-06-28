@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Rehan018/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0695-max-area-of-island](https://github.com/Rehan018/LeetCode/tree/master/0695-max-area-of-island) |
 | [0749-contain-virus](https://github.com/Rehan018/LeetCode/tree/master/0749-contain-virus) |
+| [0959-regions-cut-by-slashes](https://github.com/Rehan018/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Rehan018/LeetCode/tree/master/0695-max-area-of-island) |
 | [0749-contain-virus](https://github.com/Rehan018/LeetCode/tree/master/0749-contain-virus) |
 | [0909-snakes-and-ladders](https://github.com/Rehan018/LeetCode/tree/master/0909-snakes-and-ladders) |
+| [0959-regions-cut-by-slashes](https://github.com/Rehan018/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 ## Array
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Rehan018/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rehan018/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0931-minimum-falling-path-sum](https://github.com/Rehan018/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0959-regions-cut-by-slashes](https://github.com/Rehan018/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 | [0999-available-captures-for-rook](https://github.com/Rehan018/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rehan018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -148,12 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/Rehan018/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0909-snakes-and-ladders](https://github.com/Rehan018/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/Rehan018/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0959-regions-cut-by-slashes](https://github.com/Rehan018/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 | [0999-available-captures-for-rook](https://github.com/Rehan018/LeetCode/tree/master/0999-available-captures-for-rook) |
 ## Hash Table
 |  |
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/Rehan018/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rehan018/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0959-regions-cut-by-slashes](https://github.com/Rehan018/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rehan018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -201,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Rehan018/LeetCode/tree/master/0695-max-area-of-island) |
+| [0959-regions-cut-by-slashes](https://github.com/Rehan018/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 ## Two Pointers
 |  |
 | ------- |
