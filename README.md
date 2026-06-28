@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Rehan018/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0794-valid-tic-tac-toe-state](https://github.com/Rehan018/LeetCode/tree/master/0794-valid-tic-tac-toe-state) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Rehan018/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0835-image-overlap](https://github.com/Rehan018/LeetCode/tree/master/0835-image-overlap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rehan018/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rehan018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Rehan018/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0794-valid-tic-tac-toe-state](https://github.com/Rehan018/LeetCode/tree/master/0794-valid-tic-tac-toe-state) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Rehan018/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0835-image-overlap](https://github.com/Rehan018/LeetCode/tree/master/0835-image-overlap) |
 ## Hash Table
 |  |
 | ------- |
