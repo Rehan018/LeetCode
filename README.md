@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Rehan018/LeetCode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Rehan018/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0861-score-after-flipping-matrix](https://github.com/Rehan018/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/Rehan018/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Rehan018/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rehan018/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0999-available-captures-for-rook](https://github.com/Rehan018/LeetCode/tree/master/0999-available-captures-for-rook) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Rehan018/LeetCode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Rehan018/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0861-score-after-flipping-matrix](https://github.com/Rehan018/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/Rehan018/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Rehan018/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/Rehan018/LeetCode/tree/master/0999-available-captures-for-rook) |
 ## Hash Table
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Rehan018/LeetCode/tree/master/0258-add-digits) |
 | [0749-contain-virus](https://github.com/Rehan018/LeetCode/tree/master/0749-contain-virus) |
 | [0832-flipping-an-image](https://github.com/Rehan018/LeetCode/tree/master/0832-flipping-an-image) |
+| [0885-spiral-matrix-iii](https://github.com/Rehan018/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0999-available-captures-for-rook](https://github.com/Rehan018/LeetCode/tree/master/0999-available-captures-for-rook) |
 ## Enumeration
 |  |
