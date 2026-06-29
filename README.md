@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/Rehan018/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1020-number-of-enclaves](https://github.com/Rehan018/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/Rehan018/LeetCode/tree/master/1034-coloring-a-border) |
+| [1219-path-with-maximum-gold](https://github.com/Rehan018/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rehan018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rehan018/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2488-count-subarrays-with-median-k](https://github.com/Rehan018/LeetCode/tree/master/2488-count-subarrays-with-median-k) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/Rehan018/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1020-number-of-enclaves](https://github.com/Rehan018/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/Rehan018/LeetCode/tree/master/1034-coloring-a-border) |
+| [1219-path-with-maximum-gold](https://github.com/Rehan018/LeetCode/tree/master/1219-path-with-maximum-gold) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rehan018/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [1219-path-with-maximum-gold](https://github.com/Rehan018/LeetCode/tree/master/1219-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
