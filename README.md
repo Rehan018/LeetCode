@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Rehan018/LeetCode/tree/master/0741-cherry-pickup) |
 | [0920-number-of-music-playlists](https://github.com/Rehan018/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [0931-minimum-falling-path-sum](https://github.com/Rehan018/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1139-largest-1-bordered-square](https://github.com/Rehan018/LeetCode/tree/master/1139-largest-1-bordered-square) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Rehan018/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rehan018/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Design
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/Rehan018/LeetCode/tree/master/1034-coloring-a-border) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rehan018/LeetCode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rehan018/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1139-largest-1-bordered-square](https://github.com/Rehan018/LeetCode/tree/master/1139-largest-1-bordered-square) |
 | [1219-path-with-maximum-gold](https://github.com/Rehan018/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Rehan018/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/Rehan018/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/Rehan018/LeetCode/tree/master/1034-coloring-a-border) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rehan018/LeetCode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rehan018/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1139-largest-1-bordered-square](https://github.com/Rehan018/LeetCode/tree/master/1139-largest-1-bordered-square) |
 | [1219-path-with-maximum-gold](https://github.com/Rehan018/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Rehan018/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/Rehan018/LeetCode/tree/master/1254-number-of-closed-islands) |
