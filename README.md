@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/Rehan018/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 | [1020-number-of-enclaves](https://github.com/Rehan018/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/Rehan018/LeetCode/tree/master/1034-coloring-a-border) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Rehan018/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Rehan018/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Array
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Rehan018/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/Rehan018/LeetCode/tree/master/1034-coloring-a-border) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rehan018/LeetCode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Rehan018/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Rehan018/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Rehan018/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/Rehan018/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Rehan018/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/Rehan018/LeetCode/tree/master/1034-coloring-a-border) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rehan018/LeetCode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Rehan018/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Rehan018/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Rehan018/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/Rehan018/LeetCode/tree/master/1254-number-of-closed-islands) |
