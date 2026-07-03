@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Rehan018/LeetCode/tree/master/0229-majority-element-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Rehan018/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/Rehan018/LeetCode/tree/master/0695-max-area-of-island) |
 | [0741-cherry-pickup](https://github.com/Rehan018/LeetCode/tree/master/0741-cherry-pickup) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Rehan018/LeetCode/tree/master/0146-lru-cache) |
+| [0229-majority-element-ii](https://github.com/Rehan018/LeetCode/tree/master/0229-majority-element-ii) |
 | [0460-lfu-cache](https://github.com/Rehan018/LeetCode/tree/master/0460-lfu-cache) |
 | [0840-magic-squares-in-grid](https://github.com/Rehan018/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rehan018/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Rehan018/LeetCode/tree/master/0229-majority-element-ii) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rehan018/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1267-count-servers-that-communicate](https://github.com/Rehan018/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rehan018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Rehan018/LeetCode/tree/master/0229-majority-element-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rehan018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Recursion
 |  |
