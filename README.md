@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Rehan018/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [1201-ugly-number-iii](https://github.com/Rehan018/LeetCode/tree/master/1201-ugly-number-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rehan018/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Rehan018/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Binary Tree
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3386-button-with-longest-push-time](https://github.com/Rehan018/LeetCode/tree/master/3386-button-with-longest-push-time) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rehan018/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Rehan018/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rehan018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rehan018/LeetCode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [2488-count-subarrays-with-median-k](https://github.com/Rehan018/LeetCode/tree/master/2488-count-subarrays-with-median-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rehan018/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rehan018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Rehan018/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Rehan018/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rehan018/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1615-maximal-network-rank](https://github.com/Rehan018/LeetCode/tree/master/1615-maximal-network-rank) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Rehan018/LeetCode/tree/master/2039-the-time-when-the-network-becomes-idle) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rehan018/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Rehan018/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
