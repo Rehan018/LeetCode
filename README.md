@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1201-ugly-number-iii](https://github.com/Rehan018/LeetCode/tree/master/1201-ugly-number-iii) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Rehan018/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [2485-find-the-pivot-integer](https://github.com/Rehan018/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Rehan018/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rehan018/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Rehan018/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3386-button-with-longest-push-time](https://github.com/Rehan018/LeetCode/tree/master/3386-button-with-longest-push-time) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rehan018/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Rehan018/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/Rehan018/LeetCode/tree/master/1620-coordinate-with-maximum-network-quality) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Rehan018/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-surface-area-of-3d-shapes](https://github.com/Rehan018/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Rehan018/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Sorting
 |  |
 | ------- |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rehan018/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Rehan018/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rehan018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Rehan018/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Recursion
 |  |
 | ------- |
