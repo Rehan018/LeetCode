@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Rehan018/LeetCode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rehan018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Rehan018/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Rehan018/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-count-subarrays-with-median-k](https://github.com/Rehan018/LeetCode/tree/master/2488-count-subarrays-with-median-k) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Rehan018/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Rehan018/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Rehan018/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rehan018/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Rehan018/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rehan018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Rehan018/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Rehan018/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Recursion
 |  |
