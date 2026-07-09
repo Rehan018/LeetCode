@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Rehan018/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [2485-find-the-pivot-integer](https://github.com/Rehan018/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Rehan018/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Rehan018/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rehan018/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Rehan018/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Rehan018/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3386-button-with-longest-push-time](https://github.com/Rehan018/LeetCode/tree/master/3386-button-with-longest-push-time) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rehan018/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Rehan018/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Rehan018/LeetCode/tree/master/0223-rectangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Rehan018/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Rehan018/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Rehan018/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Sorting
 |  |
 | ------- |
