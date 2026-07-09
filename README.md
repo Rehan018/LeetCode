@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Rehan018/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/Rehan018/LeetCode/tree/master/0402-remove-k-digits) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rehan018/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Rehan018/LeetCode/tree/master/0402-remove-k-digits) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rehan018/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Rehan018/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Rehan018/LeetCode/tree/master/0743-network-delay-time) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Rehan018/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Linked List
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1139-largest-1-bordered-square](https://github.com/Rehan018/LeetCode/tree/master/1139-largest-1-bordered-square) |
 | [1162-as-far-from-land-as-possible](https://github.com/Rehan018/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Rehan018/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Rehan018/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rehan018/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Design
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Rehan018/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Rehan018/LeetCode/tree/master/2039-the-time-when-the-network-becomes-idle) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Array
 |  |
@@ -196,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rehan018/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Rehan018/LeetCode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2488-count-subarrays-with-median-k](https://github.com/Rehan018/LeetCode/tree/master/2488-count-subarrays-with-median-k) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3386-button-with-longest-push-time](https://github.com/Rehan018/LeetCode/tree/master/3386-button-with-longest-push-time) |
@@ -234,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Rehan018/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Rehan018/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -312,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Rehan018/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rehan018/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Rehan018/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rehan018/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
