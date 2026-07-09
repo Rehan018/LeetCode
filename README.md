@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Rehan018/LeetCode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Rehan018/LeetCode/tree/master/0258-add-digits) |
 | [0840-magic-squares-in-grid](https://github.com/Rehan018/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Rehan018/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Rehan018/LeetCode/tree/master/0223-rectangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Rehan018/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Rehan018/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Sorting
