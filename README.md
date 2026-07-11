@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Rehan018/LeetCode/tree/master/0402-remove-k-digits) |
 | [0420-strong-password-checker](https://github.com/Rehan018/LeetCode/tree/master/0420-strong-password-checker) |
+| [0455-assign-cookies](https://github.com/Rehan018/LeetCode/tree/master/0455-assign-cookies) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Rehan018/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0861-score-after-flipping-matrix](https://github.com/Rehan018/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Rehan018/LeetCode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rehan018/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rehan018/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Rehan018/LeetCode/tree/master/0455-assign-cookies) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Rehan018/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/Rehan018/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Rehan018/LeetCode/tree/master/0695-max-area-of-island) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Rehan018/LeetCode/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/Rehan018/LeetCode/tree/master/0832-flipping-an-image) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Rehan018/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Bit Manipulation
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rehan018/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rehan018/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rehan018/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Rehan018/LeetCode/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/Rehan018/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rehan018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Rehan018/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
