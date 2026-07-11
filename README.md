@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/Rehan018/LeetCode/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/Rehan018/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Rehan018/LeetCode/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/Rehan018/LeetCode/tree/master/0517-super-washing-machines) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Rehan018/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0861-score-after-flipping-matrix](https://github.com/Rehan018/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Rehan018/LeetCode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rehan018/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Rehan018/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Rehan018/LeetCode/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/Rehan018/LeetCode/tree/master/0517-super-washing-machines) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Rehan018/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/Rehan018/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Rehan018/LeetCode/tree/master/0695-max-area-of-island) |
