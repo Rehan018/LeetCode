@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rehan018/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Rehan018/LeetCode/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/Rehan018/LeetCode/tree/master/0517-super-washing-machines) |
+| [0561-array-partition](https://github.com/Rehan018/LeetCode/tree/master/0561-array-partition) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Rehan018/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0861-score-after-flipping-matrix](https://github.com/Rehan018/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Rehan018/LeetCode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rehan018/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Rehan018/LeetCode/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/Rehan018/LeetCode/tree/master/0517-super-washing-machines) |
+| [0561-array-partition](https://github.com/Rehan018/LeetCode/tree/master/0561-array-partition) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Rehan018/LeetCode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/Rehan018/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Rehan018/LeetCode/tree/master/0695-max-area-of-island) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rehan018/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Rehan018/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Rehan018/LeetCode/tree/master/0502-ipo) |
+| [0561-array-partition](https://github.com/Rehan018/LeetCode/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/Rehan018/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rehan018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Rehan018/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -426,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Rehan018/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Rehan018/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
