@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Rehan018/LeetCode/tree/master/0767-reorganize-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Rehan018/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0861-score-after-flipping-matrix](https://github.com/Rehan018/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [1090-largest-values-from-labels](https://github.com/Rehan018/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Rehan018/LeetCode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rehan018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Rehan018/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Rehan018/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/Rehan018/LeetCode/tree/master/1034-coloring-a-border) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rehan018/LeetCode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1090-largest-values-from-labels](https://github.com/Rehan018/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rehan018/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1139-largest-1-bordered-square](https://github.com/Rehan018/LeetCode/tree/master/1139-largest-1-bordered-square) |
 | [1162-as-far-from-land-as-possible](https://github.com/Rehan018/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/Rehan018/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [0959-regions-cut-by-slashes](https://github.com/Rehan018/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rehan018/LeetCode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1090-largest-values-from-labels](https://github.com/Rehan018/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [2488-count-subarrays-with-median-k](https://github.com/Rehan018/LeetCode/tree/master/2488-count-subarrays-with-median-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rehan018/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/Rehan018/LeetCode/tree/master/0869-reordered-power-of-2) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Rehan018/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/Rehan018/LeetCode/tree/master/0923-3sum-with-multiplicity) |
+| [1090-largest-values-from-labels](https://github.com/Rehan018/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1267-count-servers-that-communicate](https://github.com/Rehan018/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rehan018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Rehan018/LeetCode/tree/master/0767-reorganize-string) |
 | [0869-reordered-power-of-2](https://github.com/Rehan018/LeetCode/tree/master/0869-reordered-power-of-2) |
 | [0923-3sum-with-multiplicity](https://github.com/Rehan018/LeetCode/tree/master/0923-3sum-with-multiplicity) |
+| [1090-largest-values-from-labels](https://github.com/Rehan018/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rehan018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Rehan018/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Rehan018/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
