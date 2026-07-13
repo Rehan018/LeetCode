@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Rehan018/LeetCode/tree/master/1291-sequential-digits) |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/Rehan018/LeetCode/tree/master/1620-coordinate-with-maximum-network-quality) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Rehan018/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
