@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/Rehan018/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [1201-ugly-number-iii](https://github.com/Rehan018/LeetCode/tree/master/1201-ugly-number-iii) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Rehan018/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rehan018/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2485-find-the-pivot-integer](https://github.com/Rehan018/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Rehan018/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Rehan018/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Rehan018/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/Rehan018/LeetCode/tree/master/1620-coordinate-with-maximum-network-quality) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rehan018/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rehan018/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rehan018/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Rehan018/LeetCode/tree/master/2039-the-time-when-the-network-becomes-idle) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/Rehan018/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0999-available-captures-for-rook](https://github.com/Rehan018/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Rehan018/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rehan018/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rehan018/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rehan018/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
 |  |
@@ -472,4 +476,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rehan018/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rehan018/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
