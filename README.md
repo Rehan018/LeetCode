@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/Rehan018/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Rehan018/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Rehan018/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3272-find-the-count-of-good-integers](https://github.com/Rehan018/LeetCode/tree/master/3272-find-the-count-of-good-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rehan018/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rehan018/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/Rehan018/LeetCode/tree/master/1090-largest-values-from-labels) |
 | [2488-count-subarrays-with-median-k](https://github.com/Rehan018/LeetCode/tree/master/2488-count-subarrays-with-median-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3272-find-the-count-of-good-integers](https://github.com/Rehan018/LeetCode/tree/master/3272-find-the-count-of-good-integers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rehan018/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rehan018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/Rehan018/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [1201-ugly-number-iii](https://github.com/Rehan018/LeetCode/tree/master/1201-ugly-number-iii) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Rehan018/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [3272-find-the-count-of-good-integers](https://github.com/Rehan018/LeetCode/tree/master/3272-find-the-count-of-good-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-coordinate-with-maximum-network-quality](https://github.com/Rehan018/LeetCode/tree/master/1620-coordinate-with-maximum-network-quality) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rehan018/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Rehan018/LeetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3272-find-the-count-of-good-integers](https://github.com/Rehan018/LeetCode/tree/master/3272-find-the-count-of-good-integers) |
 ## Union-Find
 |  |
 | ------- |
