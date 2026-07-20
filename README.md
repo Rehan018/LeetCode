@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rehan018/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0564-find-the-closest-palindrome](https://github.com/Rehan018/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/Rehan018/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0753-cracking-the-safe](https://github.com/Rehan018/LeetCode/tree/master/0753-cracking-the-safe) |
 | [0767-reorganize-string](https://github.com/Rehan018/LeetCode/tree/master/0767-reorganize-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rehan018/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Rehan018/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Rehan018/LeetCode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Rehan018/LeetCode/tree/master/0743-network-delay-time) |
 | [0749-contain-virus](https://github.com/Rehan018/LeetCode/tree/master/0749-contain-virus) |
+| [0753-cracking-the-safe](https://github.com/Rehan018/LeetCode/tree/master/0753-cracking-the-safe) |
 | [0959-regions-cut-by-slashes](https://github.com/Rehan018/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 | [1020-number-of-enclaves](https://github.com/Rehan018/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/Rehan018/LeetCode/tree/master/1034-coloring-a-border) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Rehan018/LeetCode/tree/master/0743-network-delay-time) |
+| [0753-cracking-the-safe](https://github.com/Rehan018/LeetCode/tree/master/0753-cracking-the-safe) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1615-maximal-network-rank](https://github.com/Rehan018/LeetCode/tree/master/1615-maximal-network-rank) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Rehan018/LeetCode/tree/master/2039-the-time-when-the-network-becomes-idle) |
@@ -484,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rehan018/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rehan018/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0753-cracking-the-safe](https://github.com/Rehan018/LeetCode/tree/master/0753-cracking-the-safe) |
 <!---LeetCode Topics End-->
