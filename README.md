@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Rehan018/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0741-cherry-pickup](https://github.com/Rehan018/LeetCode/tree/master/0741-cherry-pickup) |
 | [0834-sum-of-distances-in-tree](https://github.com/Rehan018/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Rehan018/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0920-number-of-music-playlists](https://github.com/Rehan018/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [0931-minimum-falling-path-sum](https://github.com/Rehan018/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1139-largest-1-bordered-square](https://github.com/Rehan018/LeetCode/tree/master/1139-largest-1-bordered-square) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/Rehan018/LeetCode/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/Rehan018/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Rehan018/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Rehan018/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0909-snakes-and-ladders](https://github.com/Rehan018/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0959-regions-cut-by-slashes](https://github.com/Rehan018/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 | [1020-number-of-enclaves](https://github.com/Rehan018/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Rehan018/LeetCode/tree/master/0832-flipping-an-image) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Rehan018/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0861-score-after-flipping-matrix](https://github.com/Rehan018/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 ## Geometry
 |  |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Rehan018/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0834-sum-of-distances-in-tree](https://github.com/Rehan018/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/Rehan018/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Rehan018/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Rehan018/LeetCode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1615-maximal-network-rank](https://github.com/Rehan018/LeetCode/tree/master/1615-maximal-network-rank) |
@@ -510,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0753-cracking-the-safe](https://github.com/Rehan018/LeetCode/tree/master/0753-cracking-the-safe) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Rehan018/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
