@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/Rehan018/LeetCode/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/Rehan018/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0834-sum-of-distances-in-tree](https://github.com/Rehan018/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
+| [0841-keys-and-rooms](https://github.com/Rehan018/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0959-regions-cut-by-slashes](https://github.com/Rehan018/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 | [1020-number-of-enclaves](https://github.com/Rehan018/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/Rehan018/LeetCode/tree/master/1034-coloring-a-border) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-contain-virus](https://github.com/Rehan018/LeetCode/tree/master/0749-contain-virus) |
 | [0765-couples-holding-hands](https://github.com/Rehan018/LeetCode/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/Rehan018/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0841-keys-and-rooms](https://github.com/Rehan018/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/Rehan018/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0959-regions-cut-by-slashes](https://github.com/Rehan018/LeetCode/tree/master/0959-regions-cut-by-slashes) |
 | [1020-number-of-enclaves](https://github.com/Rehan018/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/Rehan018/LeetCode/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/Rehan018/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0834-sum-of-distances-in-tree](https://github.com/Rehan018/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
+| [0841-keys-and-rooms](https://github.com/Rehan018/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1615-maximal-network-rank](https://github.com/Rehan018/LeetCode/tree/master/1615-maximal-network-rank) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Rehan018/LeetCode/tree/master/2039-the-time-when-the-network-becomes-idle) |
