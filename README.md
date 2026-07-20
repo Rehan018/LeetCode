@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Rehan018/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Rehan018/LeetCode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Rehan018/LeetCode/tree/master/0767-reorganize-string) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Rehan018/LeetCode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Rehan018/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0834-sum-of-distances-in-tree](https://github.com/Rehan018/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/Rehan018/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Rehan018/LeetCode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1615-maximal-network-rank](https://github.com/Rehan018/LeetCode/tree/master/1615-maximal-network-rank) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Rehan018/LeetCode/tree/master/2039-the-time-when-the-network-becomes-idle) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Rehan018/LeetCode/tree/master/0743-network-delay-time) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Rehan018/LeetCode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Rehan018/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Doubly-Linked List
