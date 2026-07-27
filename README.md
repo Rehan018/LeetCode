@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1139-largest-1-bordered-square](https://github.com/Rehan018/LeetCode/tree/master/1139-largest-1-bordered-square) |
 | [1162-as-far-from-land-as-possible](https://github.com/Rehan018/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Rehan018/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1395-count-number-of-teams](https://github.com/Rehan018/LeetCode/tree/master/1395-count-number-of-teams) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Rehan018/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rehan018/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Rehan018/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/Rehan018/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1395-count-number-of-teams](https://github.com/Rehan018/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rehan018/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/Rehan018/LeetCode/tree/master/1620-coordinate-with-maximum-network-quality) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rehan018/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Rehan018/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/Rehan018/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+| [1395-count-number-of-teams](https://github.com/Rehan018/LeetCode/tree/master/1395-count-number-of-teams) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rehan018/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -577,4 +580,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Rehan018/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/Rehan018/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+| [1395-count-number-of-teams](https://github.com/Rehan018/LeetCode/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
