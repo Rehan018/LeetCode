@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Rehan018/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0753-cracking-the-safe](https://github.com/Rehan018/LeetCode/tree/master/0753-cracking-the-safe) |
 | [0767-reorganize-string](https://github.com/Rehan018/LeetCode/tree/master/0767-reorganize-string) |
+| [1044-longest-duplicate-substring](https://github.com/Rehan018/LeetCode/tree/master/1044-longest-duplicate-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rehan018/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Rehan018/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Stack
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rehan018/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rehan018/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Rehan018/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [1044-longest-duplicate-substring](https://github.com/Rehan018/LeetCode/tree/master/1044-longest-duplicate-substring) |
 | [1201-ugly-number-iii](https://github.com/Rehan018/LeetCode/tree/master/1201-ugly-number-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rehan018/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rehan018/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -547,4 +549,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/Rehan018/LeetCode/tree/master/0913-cat-and-mouse) |
+## Sliding Window
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Rehan018/LeetCode/tree/master/1044-longest-duplicate-substring) |
+## Rolling Hash
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Rehan018/LeetCode/tree/master/1044-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Rehan018/LeetCode/tree/master/1044-longest-duplicate-substring) |
+## Hash Function
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Rehan018/LeetCode/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
