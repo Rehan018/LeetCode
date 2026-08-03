@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rehan018/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Rehan018/LeetCode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rehan018/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Rehan018/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Rehan018/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [1044-longest-duplicate-substring](https://github.com/Rehan018/LeetCode/tree/master/1044-longest-duplicate-substring) |
 | [1201-ugly-number-iii](https://github.com/Rehan018/LeetCode/tree/master/1201-ugly-number-iii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Rehan018/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Rehan018/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0741-cherry-pickup](https://github.com/Rehan018/LeetCode/tree/master/0741-cherry-pickup) |
 | [0834-sum-of-distances-in-tree](https://github.com/Rehan018/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rehan018/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Rehan018/LeetCode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rehan018/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Rehan018/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/Rehan018/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0330-patching-array](https://github.com/Rehan018/LeetCode/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rehan018/LeetCode/tree/master/0347-top-k-frequent-elements) |
