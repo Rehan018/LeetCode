@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Rehan018/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rehan018/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rehan018/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/Rehan018/LeetCode/tree/master/0268-missing-number) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Rehan018/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [1044-longest-duplicate-substring](https://github.com/Rehan018/LeetCode/tree/master/1044-longest-duplicate-substring) |
 | [1201-ugly-number-iii](https://github.com/Rehan018/LeetCode/tree/master/1201-ugly-number-iii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/Rehan018/LeetCode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Rehan018/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Rehan018/LeetCode/tree/master/0268-missing-number) |
 | [0564-find-the-closest-palindrome](https://github.com/Rehan018/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0840-magic-squares-in-grid](https://github.com/Rehan018/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0869-reordered-power-of-2](https://github.com/Rehan018/LeetCode/tree/master/0869-reordered-power-of-2) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Rehan018/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rehan018/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/Rehan018/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Rehan018/LeetCode/tree/master/0268-missing-number) |
 | [0307-range-sum-query-mutable](https://github.com/Rehan018/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0330-patching-array](https://github.com/Rehan018/LeetCode/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rehan018/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Rehan018/LeetCode/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/Rehan018/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Rehan018/LeetCode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Rehan018/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Rehan018/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rehan018/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Rehan018/LeetCode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Rehan018/LeetCode/tree/master/0832-flipping-an-image) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Rehan018/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0861-score-after-flipping-matrix](https://github.com/Rehan018/LeetCode/tree/master/0861-score-after-flipping-matrix) |
@@ -460,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rehan018/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Rehan018/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rehan018/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Rehan018/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Rehan018/LeetCode/tree/master/0435-non-overlapping-intervals) |
