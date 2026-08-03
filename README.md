@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rehan018/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Rehan018/LeetCode/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/Rehan018/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rehan018/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rehan018/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Rehan018/LeetCode/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Rehan018/LeetCode/tree/master/0229-majority-element-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Rehan018/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0330-patching-array](https://github.com/Rehan018/LeetCode/tree/master/0330-patching-array) |
