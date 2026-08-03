@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rehan018/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/Rehan018/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Rehan018/LeetCode/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Rehan018/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Rehan018/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [1044-longest-duplicate-substring](https://github.com/Rehan018/LeetCode/tree/master/1044-longest-duplicate-substring) |
 | [1201-ugly-number-iii](https://github.com/Rehan018/LeetCode/tree/master/1201-ugly-number-iii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rehan018/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rehan018/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Rehan018/LeetCode/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Rehan018/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0307-range-sum-query-mutable](https://github.com/Rehan018/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0330-patching-array](https://github.com/Rehan018/LeetCode/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rehan018/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rehan018/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Rehan018/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Rehan018/LeetCode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Rehan018/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0832-flipping-an-image](https://github.com/Rehan018/LeetCode/tree/master/0832-flipping-an-image) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Rehan018/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Rehan018/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Rehan018/LeetCode/tree/master/0832-flipping-an-image) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Rehan018/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0861-score-after-flipping-matrix](https://github.com/Rehan018/LeetCode/tree/master/0861-score-after-flipping-matrix) |
