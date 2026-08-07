@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Rehan018/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Rehan018/LeetCode/tree/master/0409-longest-palindrome) |
 | [0420-strong-password-checker](https://github.com/Rehan018/LeetCode/tree/master/0420-strong-password-checker) |
+| [0443-string-compression](https://github.com/Rehan018/LeetCode/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Rehan018/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Rehan018/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0564-find-the-closest-palindrome](https://github.com/Rehan018/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rehan018/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rehan018/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Rehan018/LeetCode/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Rehan018/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Rehan018/LeetCode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Rehan018/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0832-flipping-an-image](https://github.com/Rehan018/LeetCode/tree/master/0832-flipping-an-image) |
